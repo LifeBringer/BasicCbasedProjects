@@ -1,7 +1,7 @@
 /* ========================================================
- *															*
+ *											*
  *				Members 1: Ramiz Alda (100398864)			*
- *						2: Imina Edebiri (100486339)		*
+ *											*
 	========================================================*/
 
 // Purpose: This program outputs the mean and deviation of inputed \
